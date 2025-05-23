@@ -9,7 +9,7 @@ Crie um novo ambiente virtual env de sua preferência.
 Clone o repositório:
 
 ```
-git clone git@github.com:floresss27/sql-para-docs.git
+git clone git@github.com:floresss27/sql-para-neo4j.git
 ```
 
 Ative o ambiente virtual.
